@@ -90,6 +90,12 @@ body {
   font-size: 20px;
 }
 
+.profile-img {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+}
+
 .user-options {
   height: 35px;
   display: flex;
@@ -128,7 +134,8 @@ body {
   text-decoration: none;
 }
 
-.links i {
+.links img,
+i {
   height: 25px;
   margin-right: 20px;
 }
