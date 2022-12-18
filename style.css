@@ -23,6 +23,7 @@ body {
   height: 60px;
   background-color: #fff;
   display: flex;
+
   align-items: center;
   padding: 0 2.5vw;
 }
@@ -148,6 +149,17 @@ i {
   border: none;
   border-bottom: 1px solid rgba(0, 0, 0, 0.1);
   margin: 20px 0;
+}
+
+.side-bar .sub {
+  border-radius: 50%;
+}
+
+.side-bar .subscription-title {
+  color: rgb(62, 60, 60);
+  font-size: 18px;
+  margin-left: 20px;
+  margin-bottom: 10px;
 }
 
 /* filter */
